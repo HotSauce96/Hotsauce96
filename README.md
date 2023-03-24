@@ -14,8 +14,8 @@ In my free time I like to keep studying new trends into the IT field, and stayin
 ### Languages and Tools :
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSC" alt="VSC " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>&nbsp;
@@ -51,5 +51,5 @@ Hey! if you want to contact me, please check it out here: [![Linkedin Badge](htt
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hotsauce96&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
-- ⚡ Fun fact: Just a little fun fact about me is that my nickname (Hotsauce) was from a videogame which allowed me to meet and know really cool places in Helsinki. ![image](https://user-images.githubusercontent.com/82364328/227662184-83756faa-5b50-4e63-b371-4bf4d7024a43.png width="10" height="10")
+- ⚡ Fun fact: Just a little fun fact about me is that my nickname (Hotsauce) was from a videogame which allowed me to meet and know really cool places in Helsinki. 🇫🇮
 
