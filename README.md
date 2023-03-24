@@ -1,11 +1,15 @@
 # Hello folks ✌! 
 ## I am Pablo, currently a frontend developer with some touch on the backend side.
 
+###  About Me :
+I am a frontend developer 🎨 hooked with the 3D design web development / in touch with the backend side as well with NodeJs, and Python 📊; finalizing my studies and located in Medellín, Colombia. 📍
+
+📑Currently I am working as a Payroll Processor at Solvo Global/ Vensure HR Services.
+
+### Languages and Tools :
 
 
-
-### :fire: My Stats :
-
+### My Stats :
 
 :mailbox:If you want to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-jaramillo-9139181b4/)
 
