@@ -42,5 +42,5 @@ Hey! if you want to contact me, please check it out here: [![Linkedin Badge](htt
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hotsauce96&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚡ Fun fact: 
-Just a little fun fact about me is that my nickname (Hotsauce) was from a videogame which allowed me to meet Helsinki and know really cool places there. :🇫🇮:
+Just a little fun fact about me is that my nickname (Hotsauce) was from a videogame which allowed me to meet Helsinki and know really cool places there. :finland:
 
