@@ -9,7 +9,7 @@
 **Currently I am working as a Payroll Processor at Solvo Global/ Vensure HR Services. 💻
 And finalizing my studies as Software Developer Technician. 📚**
 
-*In my free time I like to keep studying new trends into the IT field, and staying at home with my cat. 😸
+* In my free time I like to keep studying new trends into the IT field, and staying at home with my cat. 😸
 
 ## Languages and Tools :
 <div>
