@@ -9,7 +9,7 @@
 **Currently I am working as a Payroll Processor at Solvo Global/ Vensure HR Services. 💻
 And finalizing my studies as Software Developer Technician. 📚**
 
-* In my free time I like to keep studying new trends into the IT field, and staying at home with my cat. 😸
+*In my free time I like to keep studying new trends into the IT field, and staying at home with my cat. 😸*
 
 ## Languages and Tools :
 <div>
@@ -42,5 +42,5 @@ Hey! if you want to contact me, please check it out here: [![Linkedin Badge](htt
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hotsauce96&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚡ Fun fact: 
-Just a little fun fact about me is that my nickname (Hotsauce) was from a videogame which allowed me to meet Helsinki and know really cool places there. :finland:
+**Just a little fun fact about me is that my nickname (Hotsauce) was from a videogame which allowed me to meet Helsinki and know really cool places there. :finland:**
 
