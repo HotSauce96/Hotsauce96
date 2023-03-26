@@ -40,3 +40,6 @@ Finishing the study as Software Developer Technician at CESDE, and looking to co
 
 *"Mathematics is the science of the order and relation of all phenomena capable of being quantified and studied logically."
 -Rene Descartes.*
+
+ * *** 
+All rights reserved [Juan Pablo Jaramillo](https://github.com/HotSauce96)
