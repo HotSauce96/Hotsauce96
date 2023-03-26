@@ -38,8 +38,9 @@ Finishing the study as Software Developer Technician at CESDE, and looking to co
 ### ⚡ Fun fact: 
 **Just a little fun fact about me is that my nickname (Hotsauce) was from a videogame which allowed me to meet Helsinki 🇫🇮 and know really cool places there.**
 
+ * *** 
+ 
 *"Mathematics is the science of the order and relation of all phenomena capable of being quantified and studied logically."
 -Rene Descartes.*
 
- * *** 
-All rights reserved [Juan Pablo Jaramillo](https://github.com/HotSauce96)
+
