@@ -9,8 +9,6 @@
 **Currently working as a Payroll Processor at Solvo Global/ Vensure HR Services. 
 Finishing the study as Software Developer Technician at CESDE, and looking to continue with my studies which is my passion by these times. 📚**
 
-*In my free time I like to keep studying new trends into the IT field, and staying at home with my cat. 😸*
-
 ## Languages and Tools:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="HTML" width="40" height="40"/>&nbsp;       
@@ -40,3 +38,5 @@ Finishing the study as Software Developer Technician at CESDE, and looking to co
 ### ⚡ Fun fact: 
 **Just a little fun fact about me is that my nickname (Hotsauce) was from a videogame which allowed me to meet Helsinki 🇫🇮 and know really cool places there.**
 
+*"Mathematics is the science of the order and relation of all phenomena capable of being quantified and studied logically.
+-Rene Descartes." *
