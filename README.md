@@ -6,7 +6,7 @@
 ### About me:
 **I'm a frontend developer hooked with the 3D design web development 🎨/ in touch with the backend side as well with NodeJs and Python; finalizing my studies and located in Medellín, Colombia. 📍**
 
-**Currently I am working as a Payroll Processor at Solvo Global/ Vensure HR Services. 
+**Currently working as a Payroll Processor at Solvo Global/ Vensure HR Services. 
 Finishing the study as Software Developer Technician at CESDE, and looking to continue with my studies which is my passion by these times. 📚**
 
 *In my free time I like to keep studying new trends into the IT field, and staying at home with my cat. 😸*
