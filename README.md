@@ -9,7 +9,7 @@
 **Currently working as a Payroll Processor at Solvo Global/ Vensure HR Services. 
 Finishing the study as Software Developer Technician at CESDE, and looking to continue with my studies which is my passion by these times. 📚**
 
-## Languages and Tools:
+## Languages and tools:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="HTML" width="40" height="40"/>&nbsp;       
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -27,7 +27,7 @@ Finishing the study as Software Developer Technician at CESDE, and looking to co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" title="Numpy" alt="mySQL" width="40" height="40"/>&nbsp;
 </div>
 
-### Some Stats:
+### Some stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hotsauce96&theme=vue-dark&background=000000)](https://git.io/streak-stats)
 
