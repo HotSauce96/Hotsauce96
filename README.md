@@ -8,7 +8,7 @@
 
 **Currently finishing the study as Software Developer Technician at CESDE, and looking to continue with my studies which is my passion by these times. 📚**
 
-**I have made some projects for friends small shopping stores webs, and I have worked on customer service field for a quite long years. **
+**I have made some projects for friends small shopping stores webs, and I have worked on customer service field for a quite long years.**
 
 ## Languages and tools:
 <div>
