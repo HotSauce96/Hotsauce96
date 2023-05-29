@@ -37,8 +37,7 @@
 
 **Hey! if you want to know more about me, please check it out here: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-jaramillo-9139181b4/)**
 
-### ⚡ Fun fact: 
-**Just a little fun fact about me is that my nickname (Hotsauce) was from a videogame which allowed me to meet Helsinki 🇫🇮 and know really cool places there.**
+**Thanks for have seen my description! I appreciate you've take the time, if you want to know about more, please contact me.**
 
  * *** 
  
