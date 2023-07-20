@@ -32,8 +32,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PabloGiraldo96&theme=vue-dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloGiraldo96&theme=vue-dark&background=000000)]
-
 **Hey! if you want to know more about me, my profesional profile is here, check it out: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-jaramillo-9139181b4/)**
 
 **Thanks for have seen those things about me! I appreciate you've take the time, if you want to know about more, please send me a message.**
