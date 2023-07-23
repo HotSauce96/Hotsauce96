@@ -1,14 +1,16 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 # Hello Devs 🧩
-## I'm Pablo, frontend developer with some touch on the backend side.
+## I'm Pablo, frontend developer that also enjoys the backend side.
 
 ### About me:
-**I am a web developer, currently looking for a great place to start to apply and extend my knowledge, providing services on the frontend side with Angular Js / in touch with the backend side as well with NodeJs and Python; located in Medellín, Colombia. 📍**
+**I am a passionate web developer actively seeking exciting opportunities to apply and expand my knowledge. My expertise lies in crafting dynamic frontend web applications using Angular, complemented by backend proficiency in NodeJs and Python. Proudly based in Medellín, Colombia. 📍**
 
-**I have finalized my studies as Software Developer Technician at CESDE, and I am going to continue with the technology in ITM college as well. 📚**
+**I possess in-depth knowledge of various javascript animation libraries like Animejs, Threejs, GSAP, and more, which have fostered a deep appreciation for 3D design.**
 
-**I have made some projects for friends small shopping stores webs, nowadays I am creating my portafolio to show you the projects that I have made done, on the other hand I have worked on customer service field for a quite long years.**
+**Recently, I successfully completed my studies as a Software Developer Technician at CESDE, and I am excited to further my technical journey at ITM college. 📚**
+
+**As part of my journey, I have developed websites for small shopping stores owned by friends. Presently, I am building my portfolio to showcase the projects I have accomplished. Additionally, I have extensive experience in the customer service industry spanning several years.**
 
 ## Languages and tools that I have used in some projects:
 <div>
