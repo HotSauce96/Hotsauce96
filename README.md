@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-# Hello guys ✌
+# Hello Devs 🧩
 ## I'm Pablo, frontend developer with some touch on the backend side.
 
 ### About me:
