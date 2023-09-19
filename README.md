@@ -8,7 +8,7 @@
 
 **I possess in-depth knowledge of various javascript animation libraries like Animejs, Threejs, GSAP, and more, which have fostered a deep appreciation for 3D design.**
 
-**Recently, I successfully completed my studies as a Software Developer Technician at CESDE, and I am excited to further my technical journey at ITM college. 📚**
+**Recently, I successfully completed my studies as a Software Developer Technician at CESDE, and I am excited to further my technical journey at ITM college with the software engineering. 📚**
 
 **As part of my journey, I have developed websites for small shopping stores owned by friends. Presently, I am building my portfolio to showcase the projects I have accomplished. Additionally, I have extensive experience in the customer service industry spanning several years which complements my background.**
 
