@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
 # Hello Devs 🧩
-## I'm Pablo, frontend developer that also enjoys the backend side.
+## I'm Pablo, Software developer sharping and enhacing front and backend sides.
 
 ### About me:
 **I am a passionate web developer actively seeking exciting opportunities to apply and expand my knowledge. My expertise lies in crafting dynamic frontend web applications using Angular, complemented by backend proficiency in NodeJs and Python. Proudly based in Medellín, Colombia. 📍**
