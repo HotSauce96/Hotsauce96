@@ -4,9 +4,9 @@
 ## I'm Pablo, Software developer sharping and enhacing front and backend sides.
 
 ### About me:
-**I am a passionate web developer actively seeking exciting opportunities to apply and expand my knowledge. My expertise lies in crafting dynamic frontend web applications using Angular, complemented by backend proficiency in NodeJs and Python. Proudly based in Medellín, Colombia. 📍**
+**I am a passionate web developer actively seeking exciting opportunities to apply and expand my knowledge. My expertise lies in crafting dynamic frontend web applications using Angular or React, complemented by backend proficiency in NodeJs. Proudly based in Medellín, Colombia. 📍**
 
-**I possess in-depth knowledge of various javascript animation libraries like Animejs, Threejs, GSAP, and more, which have fostered a deep appreciation for 3D design.**
+**I have well applied knowledge of various javascript animation libraries such as Animejs, Threejs, GSAP, and others, which have fostered a deep appreciation for 3D design.**
 
 **Recently, I successfully completed my studies as a Software Developer Technician at CESDE, and I am excited to further my technical journey at ITM college with the software engineering. 📚**
 
