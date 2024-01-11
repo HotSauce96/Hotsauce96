@@ -35,7 +35,7 @@
 
 ### Some stats about my github activities:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PabloGiraldo96)](https://git.io/streak-stats)
 
 **Hey! if you want to know more about me, my profesional profile is here, check it out: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-jaramillo-9139181b4/)**
 
