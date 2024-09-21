@@ -4,17 +4,15 @@
 ## I'm Pablo, Software developer sharping and enhacing front and backend sides.
 
 ### About me:
-**I am a passionate web developer actively seeking exciting opportunities to apply and expand my knowledge. My expertise lies in crafting dynamic frontend web applications using Angular or React, complemented by backend proficiency in NodeJs.**
+**I’m a web developer driven by passion and creativity, always on the lookout for cutting-edge opportunities to push the boundaries of my skills. My expertise lies in building high-impact, dynamic web applications with React and Angular, while also delivering backend solutions using NodeJS**
 
-**Based in Medellín, Colombia. 📍**
+**📍 Based in Medellín, Colombia, I bring a unique fusion of frontend magic and backend power. My toolkit includes advanced JavaScript animation libraries like GSAP, Three.js, Framer Motion and TailwindCSS, igniting my fascination with 3D design and interactive user experiences.**
 
-**I have well applied knowledge of various javascript animation libraries such as Animejs, Threejs, GSAP, and others, which have fostered a deep appreciation for 3D design.**
+**I’m a proud graduate of the Software Development technician program at CESDE, I have successfully finalized my studies and completed several successful projects, nowadays I am enrolled into the systems engineering at ITM college, here in medellin**
 
-**Recently, I successfully completed my studies as a Software Developer Technician at CESDE. 📚**
+**With years of technical support expertise, I know how to bridge the gap between technology and user needs, ensuring every project I touch delivers real value and exceptional experiences.**
 
-**As part of my journey, I have developed websites for small shopping stores owned by friends. Presently, I am building my portfolio to showcase the projects I have accomplished. Additionally, I have extensive experience in the customer service industry spanning several years which complements my background.**
-
-## Languages and tools that I have used in some projects:
+## Languages and libraries I have used in my projects:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="HTML" width="40" height="40"/>&nbsp;       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" title="MySql" alt="mySQL" width="40" height="40"/>&nbsp;
@@ -38,6 +36,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PabloGiraldo96)](https://git.io/streak-stats)
 
 **Hey! if you want to know more about me, my profesional profile is here, check it out: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-jaramillo-9139181b4/)**
+**Personal Website: (https://juanpablogiraldo.vercel.app/))**
 
 **Thanks for have seen those things about me! I appreciate you've take the time, if you want to know about more, please send me a message.**
 
