@@ -4,13 +4,13 @@
 ## I'm Pablo, Software developer sharping and enhacing front and backend sides.
 
 ### About me:
-**I’m a web developer driven by passion and creativity, always on the lookout for cutting-edge opportunities to push the boundaries of my skills. My expertise lies in building high-impact, dynamic web applications with React and Angular, while also delivering backend solutions using NodeJS**
+**I'm a web developer driven by passion and creativity, always looking for innovative ways to push the boundaries of my skills. My expertise lies in building high impact, dynamic web applications using React and Angular, while also delivering backend solutions using NodeJS.**
 
-**📍 Based in Medellín, Colombia, I bring a unique fusion of frontend magic and backend power. My toolkit includes advanced JavaScript animation libraries like GSAP, Three.js, Framer Motion and TailwindCSS, igniting my fascination with 3D design and interactive user experiences.**
+**📍 Based in Medellín, Colombia, I bring a unique fusion of frontend magic and backend power. My toolkit includes advanced JavaScript animation libraries such as GSAP, Three.js, Framer Motion and TailwindCSS, which fuel my fascination with 3D design and interactive user experiences.**
 
-**I’m a proud graduate of the Software Development technician program at CESDE, I have successfully finalized my studies and completed several successful projects, nowadays I am enrolled into the systems engineering at ITM college, here in medellin**
+**I'm a proud graduate of the Software Development Technician program at CESDE, having successfully completed my studies and several successful projects, I'm currently enrolled in Systems Engineering at ITM College, here in Medellin.**
 
-**With years of technical support expertise, I know how to bridge the gap between technology and user needs, ensuring every project I touch delivers real value and exceptional experiences.**
+**With years of experience in technical support, I know how to bridge the gap between technology and user needs, ensuring that every project I touch delivers real value and exceptional experiences.**
 
 ## Languages and libraries I have used in my projects:
 <div>
